@@ -314,4 +314,7 @@ nano /etc/apache2/sites-available/02-wordpress.conf
 - /var - содержит логи и базы данных — если они переполнятся, не будет нарушена работа всей системы
 - /tmp - может заполняться временными файлами
 
+## Библиография : 
+-[Много умных слов](http://www.regatta.cs.msu.su/doc/usr/share/man/info/ru_RU/a_doc_lib/aixuser/usrosdev/user_sys_id.htm#:~:text=5.1%20Commands%20Reference.-,%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20(%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20uname),%D0%B6%D0%B5%20%D1%81%D0%B0%D0%BC%D0%BE%D0%B5%2C%20%D1%87%D1%82%D0%BE%20%D0%98%D0%94%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.)
+- [Ваш курс)](https://elearning.usm.md/mod/assign/view.php?id=281960)
 
